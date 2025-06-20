@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "f27937bed63affcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0de1c026fa2ee4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ba10ced6acdbe13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hey There.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hey There"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b428171b7b257036",
+    "type": "split",
+    "children": [
+      {
+        "id": "25aec7cf9b0e0867",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2e23deae8f61880",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aa396ddb041fa0ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3bb68fcfc8077b2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a6b6c52e8205f12c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a3541bd3cc3cb28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2027d3657f0377e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 First Steps.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 00 First Steps"
+            }
+          },
+          {
+            "id": "2d6821484551df3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Notes Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Daily Notes Template"
+            }
+          },
+          {
+            "id": "38f39634a655bb11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a7bc79aa099bd8f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hey There.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hey There"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "5ba10ced6acdbe13",
+  "lastOpenFiles": [
+    "00 Help/Plugins.md",
+    "Hey There.md",
+    "00 Help/Help Files/Graph view.md",
+    "Scratch pad.md",
+    "01 Shorthand Guides/Writing in Obsidian.md",
+    "00 Help/Attachments/reading mode.png",
+    "02 Attachments/Pasted image 20250620093005.png",
+    "00 Help/Attachments/copilot models.png",
+    "00 Help/Attachments/copilot setup.png",
+    "00 Help/Attachments/Create Kanban.png",
+    "00 Help/Attachments/dataview view options.png",
+    "00 Help/Attachments/Day planner.png",
+    "00 Help/Attachments/Drawing Pallet.png",
+    "00 Help/Attachments/Editing Toolbar.png",
+    "00 Help/Attachments/image toolkit.png",
+    "00 Help/Attachments/Excalidraw example.excalidraw.md",
+    "00 Help/Attachments/Attachments.md",
+    "Obsidian.md",
+    "01 Shorthand Guides/Mathpad.md",
+    "01 Shorthand Guides/MathJax.md",
+    "00 First Steps.pdf",
+    "03 Templates/Daily Notes Template.md",
+    "04 Daily Notes/Daily Notes Setup.md",
+    "04 Daily Notes/04 Daily Notes.md",
+    "00 Help/00 Help.md",
+    "01 Shorthand Guides/01 Shorthand Guides.md",
+    "01 Shorthand Guides/Dataview query builder File.md",
+    "01 Shorthand Guides/Copyable Symbols.md",
+    "01 Shorthand Guides/00 Obsidian writing.md",
+    "00 Help/Help Files/Properties, Tags and Aliases.md",
+    "00 Help/Help Files/Templates, Streamlining Notes.md",
+    "00 Help/Templates/Daily Notes.md",
+    "00 Help/Help Files/Mathpad calculator docs/Mathpad calculator docs.md",
+    "00 Help/Help Files/Mathpad calculator docs/Mathpad main.md",
+    "00 Help/Help Files/Mathpad calculator docs/Mathpad functions.md",
+    "00 Help/Help Files/Canvas.md",
+    "00 Help/Help Files/Mermaid flowcharts.md",
+    "01 Shorthand Guides",
+    "03 Templates",
+    "06 Study",
+    "05 Projects",
+    "Clippings",
+    "00 Help/Templates",
+    "00 Help/Help Files/Mathpad calculator docs/Mathpad attachments",
+    "00 Help/Help Files/Mathpad calculator docs",
+    "00 Help/Help Files"
+  ]
+}
