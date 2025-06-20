@@ -62,10 +62,10 @@ Now lets begin, down below there is a checklist of things that I recommend you e
 
 1. [ ] Read how to [[Writing in Obsidian|type in obsidian]], if you're familiar with markdown feel free to skip that 
 2. [ ] Make a note and write in it (Create a new note with `CTRL+N` or `CMD+N`)
-	- [ ] (Optional) Learn to write Math using [[MathJax]]
+	- [ ] (Optional) Learn to write Math using (the system with which obsidian renders math) [[MathJax]] 
 3. After creating a couple notes try creating some notes with meaningful links, adds a link by [[Writing in Obsidian#Linking and Links|using these]]   
 
->[!info] Before you proceed below, I'd suggest using Obsidian plain vanilla, however the app is incredibly feature rich in itself and can be extended further with plugins, both core and community
+>[!info] Before you proceed below, I'd suggest using Obsidian without plugins, however the app is incredibly feature rich in itself and can be extended further with plugins, both core and community
 
 <br>
 <br>
@@ -84,17 +84,16 @@ Now lets begin, down below there is a checklist of things that I recommend you e
 	- [ ] [[Templates, Streamlining Notes]]
 	- [ ] [[Canvas]]
 	- [ ] [[Mermaid flowcharts]] 
-4. [ ] Go through the [[Plugins]] file to see all the interesting options that are there, enable the plugins that you think you might use
-	- [ ] Read [[Plugins#* Excalidraw|Excalidraw]]
+4. [ ] Go through the [[Plugins]] file to see all the interesting options that are there, enable the plugins that you think you might use 
+	- [ ] Read [[Plugins#* Excalidraw|Excalidraw]], a tool to help you draw and make handwriting like diagrams
 	- [ ] Read [[Plugins#* Better Word Count|Better Word Count]]
-	- [ ] Read [[Plugins#* Editing Toolbar|Editing Toolbar]]
-	- [ ] Read [[Plugins#* Spaced Repetition|Spaced Repetition]]
-	- [ ] Read [[Plugins#* Dataview SQL in obsidian|Dataview]] 
-	- [ ] Read [[Plugins#* Advanced Tables|Advanced Tables]]
-	- [ ] Read [[Plugins#* Remote Save|Remotely Save]]
-	- [ ] Read [[Plugins#* Waypoints|Waypoints]]
-	- [ ] Read [[Plugins#Quick LaTex|Fast Math]]
-	- [ ] Read [[Plugins#Checklist Progress|Checklist Progress]]
+	- [ ] Read [[Plugins#* Editing Toolbar|Editing Toolbar]], to add formatting options 1 click away
+	- [ ] Read [[Plugins#* Spaced Repetition|Spaced Repetition]], to study and remember your notes better
+	- [ ] Read [[Plugins#* Dataview SQL in obsidian|Dataview]], to treat your vault like its an database, sounds like a hassle but its very useful 
+	- [ ] Read [[Plugins#* Advanced Tables|Advanced Tables]], to help you with rearranging your markdown tables
+	- [ ] Read [[Plugins#* Waypoints|Waypoints]], to create maps of your folders like in [[00 Help#File Map in `00 Help`|this file]]
+	- [ ] Read [[Plugins#LaTex Suite|Fast Math]], to help write math faster
+	- [ ] Read [[Plugins#Checklist Progress|Checklist Progress]], to keep track of your lists
 5. [ ] Creating daily notes if you feel they suit your need, these can be; a progress tracking for habits, daily journal for an aspiring doctor or logs for a counselor 
 
 <br>

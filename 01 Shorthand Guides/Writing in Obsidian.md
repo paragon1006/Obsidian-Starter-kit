@@ -175,8 +175,9 @@ Use `[Display text](Link URL)` to customise how the link appears.
 - `[Custom name](Example.md)` appears as [Custom name](https://help.obsidian.md/Example)
 - `[Section name](Example.md#Details)` appears as [Section name](https://help.obsidian.md/Example#Details)
 
-This method is helpful for one-off situations where you want to change how a link looks in a specific context. If you want to set up an alternate link name that you can reuse throughout your vault, consider using an [[Properties, Tags and Aliases#Aliases|aliases]] instead.
-For example, if you regularly refer to `[[Three laws of motion]]` as `[[The 3 laws]]`, adding "3 laws" as an [[Properties, Tags and Aliases#Aliases|alias]] allows you to type just that—no need to add custom display text each time.
+This method is helpful for one-off situations where you want to change how a link looks in a specific context. If you want to set up an alternate link name that you can reuse throughout your vault, consider using an [[Properties, Tags and Aliases#Aliases|alias]] instead.  
+>[!note] What's an [[Properties, Tags and Aliases#Aliases|alias]]? 
+>It is an alternate name you can assign to a note for ease of use. For example, if you regularly refer to `[[Three laws of motion]]` as `[[The 3 laws]]`, adding "3 laws" as an [[Properties, Tags and Aliases#Aliases|alias]] allows you to type just that-no need to add custom display text each time.
 
 >[!tip]
 > Use [[#Changing the names on links]] when you want to customise how a link looks _in a specific place_
