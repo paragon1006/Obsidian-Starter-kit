@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Hey There.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -183,8 +183,9 @@
   },
   "active": "5ba10ced6acdbe13",
   "lastOpenFiles": [
-    "01 Shorthand Guides/Writing in Obsidian.md",
+    "README.md",
     "Hey There.md",
+    "01 Shorthand Guides/Writing in Obsidian.md",
     "Scratch pad.md",
     "06 Study/Placeholder file.md",
     "05 Projects/Placeholder file.md",
@@ -219,7 +220,6 @@
     "00 Help/Help Files/Templates, Streamlining Notes.md",
     "00 Help/Templates/Daily Notes.md",
     "00 Help/Help Files/Mathpad calculator docs/Mathpad calculator docs.md",
-    "00 Help/Help Files/Mathpad calculator docs/Mathpad main.md",
     "01 Shorthand Guides",
     "03 Templates",
     "06 Study",

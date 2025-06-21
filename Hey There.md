@@ -123,7 +123,8 @@ If you feel like exploring further I suggest you go through [this link](https://
 
 ### Some Useful Info
 >[!info] 
->1. There are several plugins downloaded in this vault, use them after reading [[Plugins#*How to download a plugin*|Download and use plugins]]
->2. Adjust your settings by doing `CTRL+,` `CMD+,`
->3. There are themes installed under `Appearance` in settings
->4. There are 2 snippets there that allow you to change the look of obsidian that you may enable
+>1. There are several plugins downloaded in this vault, use them after reading [[Plugins#*How to download a plugin*|Getting plugins]]
+>2. Look at examples [Vaults around the Web](https://forum.obsidian.md/t/14-example-vaults-from-around-the-web-kepano-nick-milo-the-sweet-setup-and-more/81788) (Vault is an obsidian Folder)  
+>3. Adjust your settings by doing `CTRL+,` `CMD+,`
+>4. There are themes installed under `Appearance` in settings
+>5. There are downloaded 2 snippets there that allow you to change the look of obsidian that you may enable
