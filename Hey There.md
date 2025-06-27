@@ -63,7 +63,40 @@ Now lets begin, down below there is a checklist of things that I recommend you e
 1. [ ] Read how to [[Writing in Obsidian|type in obsidian]], if you're familiar with markdown feel free to skip that 
 2. [ ] Make a note and write in it (Create a new note with `CTRL+N` or `CMD+N`)
 	- [ ] (Optional) Learn to write Math using (the system with which obsidian renders math) [[MathJax]] 
-3. After creating a couple notes try creating some notes with meaningful links, adds a link by [[Writing in Obsidian#Linking and Links|using these]]   
+	- Some Interesting topics to create notes on (Click the `>` symbol)
+		- Write a daily note about your day, maybe track your tasks and work
+		- Write notes on an interesting youtube video
+			- Advanced **CS** like this [Grover's Algorithm](https://youtu.be/RQWpF2Gb-gU) video
+			- The **business world** with videos like [Why Common Sense is So Hard to Sell](https://www.youtube.com/watch?v=pp76GUD0OGw)
+			- **Geopolitics** with [The $16 TRILLION Race to Mine the Ocean](https://www.youtube.com/watch?v=TacQgNeoPMM)
+			- Maybe some modern **History** with [How a Russian Soldier Saved the World](https://www.youtube.com/watch?v=F5TERw9-vO4)
+			- If **maths** is more your style [The Obviously True Theorem No One Can Prove](https://www.youtube.com/watch?v=x32Zq-XvID4)
+			- Understand **Nuclear fusion** with [The Problem with Nuclear Fusion](https://www.youtube.com/watch?v=BzK0ydOF0oU)
+			- Or explore **Psychology** with [The Paradox of Choice](https://www.youtube.com/watch?v=VO6XEQIsCoM)
+		- Or check out some interesting Wikipedia articles
+			- **[Game theory](https://en.wikipedia.org/wiki/Game_theory)**
+			- **[Behavioral economics](https://en.wikipedia.org/wiki/Behavioral_economics)**
+			- **[Social constructionism](https://en.wikipedia.org/wiki/Social_constructionism)**
+			- **[Quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)**
+			- **[Great Pacific garbage patch](https://en.wikipedia.org/wiki/Great_Pacific_garbage_patch)**
+			- **[Systems thinking](https://en.wikipedia.org/wiki/Systems_thinking)**
+			- **[World War II (Wikipedia)](https://en.wikipedia.org/wiki/World_War_II)**
+		- Learn a programming language
+			- Python from 
+				- https://www.w3schools.com/python/
+				- https://www.tpointtech.com/python-tutorial
+			- Or maybe Learn [Rust](https://doc.rust-lang.org/stable/book/)
+		- Create notes on recipes
+		- Or Book/Movie summary
+		- Write a blog
+		- Make project roadmaps and task lists
+3. After creating a couple notes try creating some notes with meaningful links, adds a link by [[Writing in Obsidian#Linking and Links|using these]] 
+
+
+
+
+
+
 
 >[!info] Before you proceed below, I'd suggest using Obsidian without plugins, however the app is incredibly feature rich in itself and can be extended further with plugins, both core and community
 

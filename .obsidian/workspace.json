@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Hey There.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Hey There"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Hey There.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Hey There"
             }
           }
         ],
@@ -183,8 +183,8 @@
   },
   "active": "5ba10ced6acdbe13",
   "lastOpenFiles": [
-    "Hey There.md",
     "README.md",
+    "Hey There.md",
     "01 Shorthand Guides/Writing in Obsidian.md",
     "Scratch pad.md",
     "06 Study/Placeholder file.md",
